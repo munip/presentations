@@ -14,11 +14,10 @@ Some things to do in the introduction:
  - make sure to do practices (move people around so they interact with people they don't know)
  - make sure to talk about how this is a little odd given that the camera is the *other person*
 
- # Technical Story
+# Technical Story
  - create outline here
  - in each are of the outline
  - maybe make things break on purpose for a little drama? 
-
 
 # Mechanics
 - make it real - it is ok if you don't say perfectly
@@ -27,3 +26,5 @@ Some things to do in the introduction:
 - make sure you thoroughly check your demo and run through it beforehand (this helps heaps with confidence)
 - have your story in order (you can even have it on a piece of paper in front of you!!)
 - you should feel excited about what you're going to talk about (if you're not you need to re-evaluate things)
+- demo failures
+- review, go do's
